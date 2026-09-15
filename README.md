@@ -1,14 +1,5 @@
 # Project Status Report
 
-## Week 1 - September 15, 2026
-
-- Project Initiated
-- team members assigend
-- inital budget approved
-- $50,000
-
----
-
 ## Week 2 - September 21, 2026
 
 - Vendor contracts signed
@@ -16,3 +7,7 @@
 - Budget remaining: $45,000
 
 ---
+
+## Week 3 - September 29, 2026
+- Major milestone achieved
+- Budget: $42,000
